@@ -7,5 +7,6 @@
 
 오후 : Git Bash 사용 방법
        - Branch 관련 명령어 및 Git 사용 방법
-       - Github user.name/user.email 등록 방법
+       - Github user.name/user.email 등록/삭제 방법
        - Github 에 파일 생성 및 push 방법
+       - Github 에 업로드 된 파일 지우기/ Git bash에서 지우는 방법
