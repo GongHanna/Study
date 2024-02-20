@@ -1,0 +1,9 @@
+오전 : Adobe ILLUST text 문서 작성 방법
+        - text 문단 나누는 방법
+        - 무료 폰트 site : 영문/한글
+        - text 를 사용해 800*800 size의 포스터 제작
+
+오후 : Github에 과제물 업데이트
+         HTML code 작성 방법
+        - pre, br, title, em, blockquote, p, hr, strong 등 다양한 태그 배움
+        - 금일 배운 태그를 사용하여 HTML 문서 작성 (textEx.html)      
