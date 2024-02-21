@@ -1,0 +1,8 @@
+오전 : Adobe ILLUST effet 사용 방법
+        - 3D 효과, Transform, Stylize ...etc
+        - symbol 추가 및 수정 방법
+
+오후 : HTML code 작성 방법
+        - div, span, ol, ul, 중첩 메뉴 등 다양한 태그 배움
+        - 금일 배운 태그를 사용하여 HTML 문서 작성 (listEx1.html/ html5Layout.html ...etc)      
+        - 배웠던 태그 이용하여 HTML 문서 작성 후 과제 업로드 (listEx2.html)
