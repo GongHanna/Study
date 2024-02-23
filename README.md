@@ -1,3 +1,8 @@
+# 240221 #
+Adobe Illust : effet 사용 방법 (3D 효과, Transform, Stylize ...etc)
+
+HTML : code 작성 방법 (div, span, ol, ul, 중첩 메뉴)
+
 # 240220 #
 Adobe Illust : text 문서 작성 방법
 
