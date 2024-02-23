@@ -1,3 +1,10 @@
+# 240220 #
+Adobe Illust : text 문서 작성 방법
+
+Git : Github에 과제물 업데이트
+
+HTML : code 작성 방법 (pre, br, title, em, blockquote, p, hr, strong)
+
 # 240215 #
 Adobe Illust : path tool 다루는 방법 
 
