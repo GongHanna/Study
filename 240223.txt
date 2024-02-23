@@ -5,6 +5,6 @@
         - Layer mask
 
 오후 : HTML code 작성 방법
-        - 
+        - 상대 경로 복습 및 예제 작성
         - 
         - 
