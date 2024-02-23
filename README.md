@@ -1,3 +1,8 @@
+# 240223 #
+Adobe Photoshop : smartObject Layer/ 일반 Layer 변환, Puppet Warp, ContentAware/ ContentAware move tool/ ContentAware scale, Layer mask
+
+HTML : code 작성 방법 (상대 경로 복습 및 예제 작성), github에 업로드 후 pages 제작 방법
+
 # 240222 #
 Adobe Photoshop : 환경설정, 누끼따기, 이미지/캔버스 사이즈 조절
 
