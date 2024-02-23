@@ -1,0 +1,10 @@
+오전 : Adobe Photoshop
+        - smartObject Layer 로 변환 (pixcel 원본 보존)/ 일반 Layer 변환
+        - Puppet Warp  (path 모양 변환)
+        - ContentAware/ ContentAware move tool/ ContentAware scale
+        - Layer mask
+
+오후 : HTML code 작성 방법
+        - 
+        - 
+        - 
