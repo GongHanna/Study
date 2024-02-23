@@ -1,3 +1,8 @@
+# 240222 #
+Adobe Photoshop : 환경설정, 누끼따기, 이미지/캔버스 사이즈 조절
+
+HTML : code 작성 방법 (anchor, 절대 경로 값 입력 시 target="_blank"), 절대 경로/ 상대 경로
+
 # 240221 #
 Adobe Illust : effet 사용 방법 (3D 효과, Transform, Stylize ...etc)
 
