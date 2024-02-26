@@ -1,3 +1,10 @@
+# 240226 #
+**Adobe Photoshop** : Blending 사용 방법, 조정 Layer, ClippingMask 
+
+**Git** : 
+
+**HTML** : code 작성 방법 
+
 # 240223 #
 **Adobe Photoshop** : smartObject Layer/ 일반 Layer 변환, Puppet Warp, ContentAware/ ContentAware move tool/ ContentAware scale, Layer mask
 
