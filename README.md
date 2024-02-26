@@ -1,7 +1,7 @@
 # 240226 #
 **Adobe Photoshop** : Blending 사용 방법, 조정 Layer, ClippingMask 
 
-**HTML** : code 작성 방법 (특정.위치.이동/id속성), img/figure/figcaption
+**HTML** : code 작성 방법 (특정.위치.이동/id속성), img/figure/figcaption, 인라인 요소의 특성
 
 # 240223 #
 **Adobe Photoshop** : smartObject Layer/ 일반 Layer 변환, Puppet Warp, ContentAware/ ContentAware move tool/ ContentAware scale, Layer mask
