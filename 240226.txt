@@ -1,0 +1,10 @@
+오전 : Adobe Photoshop
+        - Blending 사용 방법
+        - 조정 Layer (Adjustment)
+        - ClippingMask 
+
+오후 : HTML code 작성 방법
+        - 특정.위치.이동/ id 속성
+        - 단축키 설정 방법 (liveserver), Ctrl+F12
+        - Tag : img (src, alt 속성), figure/ figcaption
+        - 인라인 요소의 특징 
