@@ -1,8 +1,3 @@
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
 # 240227 #
 **Adobe Photoshop** : LayerStyle, ClippingMask, Pattern, Stamp, Filter, 사람 보정
 
