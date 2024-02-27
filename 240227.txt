@@ -1,0 +1,13 @@
+오전 : Adobe Photoshop
+        - LayerStyle 주는 방법
+        - ClippingMask
+        - Pattern 효과 주는 방법/NewPattern 등록 방법
+        - Stamp/ SpotHealingBrush/ HealingBrush
+        - 사람 얼굴 보정 방법(Blur, Sharpen, Smudge, Dodge, Burn, Sponge Tool)
+        - Filter(선명도 보정-Sharpen, Blur 효과, Noise)
+
+오후 : HTML code 작성 방법
+        - table/ tr/ th/ td 태그 (표 작성)
+        - colspan(열 병합), rowspan(행 병합)
+        - thead(표 머릿말), tbody(표 본문), tfoot(표 바닥), caption(table 전용)
+        - form (input -type/ -name/ -id/ -maxlength/ -placeholder)
