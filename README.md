@@ -1,7 +1,7 @@
 # 240227 #
 **Adobe Photoshop** : LayerStyle, ClippingMask, Pattern, Stamp, Filter, 사람 보정
 
-**HTML** : code 작성 방법 
+**HTML** : code 작성 방법 (table/ tr/ th/ td), (colspan/ rowspan), (caption/ thead/ tbody/tfoot), form (input -type/ -name/ -id/ -maxlength/ -placeholder)
 
 # 240226 #
 **Adobe Photoshop** : Blending 사용 방법, 조정 Layer, ClippingMask 
