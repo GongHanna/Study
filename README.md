@@ -1,5 +1,5 @@
 # 240227 #
-**Adobe Photoshop** : 
+**Adobe Photoshop** : LayerStyle, ClippingMask, Pattern, Stamp, Filter, 사람 보정
 
 **HTML** : code 작성 방법 
 
