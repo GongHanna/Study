@@ -1,0 +1,14 @@
+오전 : Adobe Photoshop
+        - FilterGallery
+        - object 선택, 선택영역 지정 후 그 부분만 효과 가능, Ctrl+Del 
+        - patternImg 제작방법
+        - gif 제작 방법
+        - 영상 제작 방법
+
+오후 : HTML code 작성 방법
+        - 다양한 폼 관련 태그 (input type, button, textarea ...etc.)
+        - fieldset-legend
+        - label (연결 방법)/ label for=""
+        - disabled (값)
+        - video/ audio
+        - favicon 
