@@ -1,7 +1,7 @@
 # 240228 #
 **Adobe Photoshop** : FilterGallery, PatternImg 제작 방법, gif/영상 제작 방법
 
-**HTML** : code 작성 방법
+**HTML** : code 작성 방법 (input type, button, teatarea ...etc.), fiedset-legend, label (label for=""), disabled, video/audio, favicon
 
 # 240227 #
 **Adobe Photoshop** : LayerStyle, ClippingMask, Pattern, Stamp, Filter, 사람 보정
