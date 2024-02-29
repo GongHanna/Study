@@ -1,7 +1,7 @@
 # 240229 #
 **Adobe Photoshop** : 웹사이트 캡쳐 후 캡쳐 본 똑같이 제작 후 평가방에 제출
 
-**HTML** : 
+**HTML** : meta tag, (og:title, og:description, og:image, og:url)
 
 # 240228 #
 **Adobe Photoshop** : FilterGallery, PatternImg 제작 방법, gif/영상 제작 방법
