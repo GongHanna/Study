@@ -1,5 +1,5 @@
 # 240229 #
-**Adobe Photoshop** : 
+**Adobe Photoshop** : 웹사이트 캡쳐 후 캡쳐 본 똑같이 제작
 
 **HTML** : 
 
