@@ -1,0 +1,15 @@
+오전 : Figma
+        - figma 사용 방법 (단축키)
+        - 프레임 활용 방법
+        - LayoutGrid (columns 자주 사용)
+        - 그리드(Grid)에 대하여
+
+오후 : CSS code 작성 방법
+        - 카카오톡 개발자 회원가입
+        - Selector선택자 { Property 특성 : Value 값; }
+        - css 선언 방식 (외부/ 내부/ 직접 선언)
+        - @charset "utf-8";
+        - color 특성 (name, hex, rgb, rgba)
+        - css 우선 순위 (id, class)
+            : { !important > (직접, inline >) #id(5) > .class(3) > type(1) }
+            : (직접, inline>) 내부선언 > 외부선언
