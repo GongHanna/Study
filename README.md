@@ -1,3 +1,8 @@
+# 240304 #
+**Figma** : 전체 단축키 보는 법 ( Ctrl + Shift +/), LayoutGrid, Frame
+
+**HTML/CSS** : style 입히는 방법, css 선언 방식 (외부/ 내부/ 직접 선언), @charset "utf-8";, color 특성 (name, hex, rgb, rgba), css 우선 순위
+
 # 240229 #
 **Adobe Photoshop** : 웹사이트 캡쳐 후 캡쳐 본 똑같이 제작 후 평가방에 제출
 
