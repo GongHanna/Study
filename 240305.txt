@@ -1,0 +1,12 @@
+오전 : Figma
+        - LayoutGrid (columns/Rows : count, margin, gutter)
+        - component 생성 및 적용
+        - share, export, prototype
+        - AutoLayout (frame 안 object 정렬 방식) :다양한 버전의 예제들을 만들 때 필요
+        - mask
+
+오후 : CSS code 작성 방법
+        - font+text 관련 css style code
+        - css 상속 (inheritance) 개념
+        - 선택자 개념 (종속, 복합)
+        - text-overflow (말줄임표)
