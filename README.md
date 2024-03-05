@@ -1,3 +1,8 @@
+# 240305 #
+**Figma** : LayoutGrid, component, AutoLayout, mask
+
+**HTML/CSS** : font+text 관련 css style code, css 상속 (inheritance) 개념, 선택자 개념 (종속, 복합)
+
 # 240304 #
 **Figma** : 전체 단축키 보는 법 ( Ctrl + Shift +/), LayoutGrid, Frame
 
