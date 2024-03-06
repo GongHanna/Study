@@ -1,4 +1,9 @@
 # 240305 #
+**Figma** : Prototype tool, Variant (properties), prototype - after delay, 반응형 웹 모바일 버전
+
+**HTML/CSS** : a(의사 클래스 :/  의사 요소::), 특성(속성) 선택자 [type="value"], 복합 선택자/ 인접 형제 선택자 (+)/ 일반 형제 선택자 (~), 종속 선택자/ 하위 선택자, width, height 
+
+# 240305 #
 **Figma** : LayoutGrid, component, AutoLayout, mask
 
 **HTML/CSS** : font+text 관련 css style code, css 상속 (inheritance) 개념, 선택자 개념 (종속, 복합)
