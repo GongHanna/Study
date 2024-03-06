@@ -1,0 +1,18 @@
+오전 : Figma
+        - Prototype tool 다루는 방법
+        - Variant (properties) : compornent 로 변경 뒤 사용 가능
+                                      : Prop=Value (이름 변경)
+        - prototype - after delay
+        - 반응형 웹 모바일 버전
+
+오후 : CSS code 작성 방법
+        - A tag 관련 css (의사 클래스 :/  의사 요소::)
+            1. a:link (링크 상태일 때 -기본)
+            2. a:visited (방문했을 때)
+            3. a:hover (마우스를 위에 올렸을 때
+            4. a:active (클릭했을 때)
+        - 특성(속성) 선택자 [type="value"]
+        - 복합 선택자/ 인접 형제 선택자 (+)/ 일반 형제 선택자 (~)
+        - html.json 작성 방법 ("" 필수/ 줄바꿈은 쉼표(,) 필수, [] 혹은 {}안에 작성해야 함)
+        - width, height (블록/인라인 요소)
+        - 종속 선택자/ 하위 선택자 (띄어쓰기로 구분)
