@@ -1,0 +1,19 @@
+오전 : Figma
+        - 반응형 웹 모바일 버전 
+        - 와이어프레임 (구조 파악) 제작
+        - UI kit (figma community)
+        - figma community (UI/UX KIT ...etc.)
+        - StatusBar, TabBar (frame)은 항상 상단에 위치
+        - dispatch instance
+        - icon 내보내기 - export - SVG 파일로 내보내기 (vactor)
+           : illust 에서 제어 가능 
+
+오후 : CSS code 작성 방법
+        - vertical-align
+        - 박스 모델 (padding, border, margin)
+           1. border - 테두리 (top/ bottom/ left/ right), (width-굵기, style-스타일, color-색상)
+           2.padding - 안쪽 여백 (top/ bottom/ left/ right), (width-굵기, style-스타일, color-색상)
+           3.margin - 바깥쪽 여백 (top/ bottom/ left/ right), (width-굵기, style-스타일, color-색상)
+              *마진 상쇄 현상
+        - Emmet (https://docs.emmet.io/cheat-sheet/)
+        - 블록요소의 중앙 정렬 : margin 으로 처리
