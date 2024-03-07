@@ -1,4 +1,9 @@
-# 240305 #
+# 240307 #
+**Figma** : 반응형 웹 모바일 버전 (와이어 프레임 제작), figma commuitiy (UI/UX kit), icon 내보내기 (export - svg 파일 : vactor)
+
+**HTML/CSS** : vertical-align, 박스 모델 (padding, border, margin), 마진 상쇄 현상, 블록요소의 중앙 정렬 : margin 으로 처리
+
+# 240306 #
 **Figma** : Prototype tool, Variant (properties), prototype - after delay, 반응형 웹 모바일 버전
 
 **HTML/CSS** : a(의사 클래스 :/  의사 요소::), 특성(속성) 선택자 [type="value"], 복합 선택자/ 인접 형제 선택자 (+)/ 일반 형제 선택자 (~), 종속 선택자/ 하위 선택자, width, height 
