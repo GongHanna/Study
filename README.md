@@ -1,3 +1,8 @@
+# 240308 #
+**Figma** : mobile UI/UX design 방법 (ios, android), prototype : sticky/ fixed/ horizontal, FloatingActionButtons, Sections, 마크업 분석
+
+**HTML/CSS** : border-radius, margin+padding 복습, list-style (-type/ -position), 요소의 실제 크기 계산 방법
+
 # 240307 #
 **Figma** : 반응형 웹 모바일 버전 (와이어 프레임 제작), figma commuitiy (UI/UX kit), icon 내보내기 (export - svg 파일 : vactor)
 
