@@ -1,0 +1,14 @@
+오전 : Figma
+        - 7-zip 압축 프로그램 (mac 전용 파일 윈도우에서 사용 가능)
+        - mobile UI/UX design 방법 (ios, android)
+        - prototype : sticky/ fixed
+        - FloatingActionButtons 제작 및 prototype 으로 제어
+        - Slide 효과 (autolayout 선택 후, prototype - horizontal)
+        - 모든 작업 후, section 적용 방법
+        - 마크업 분석 (와이어프레임)
+
+오후 : CSS code 작성 방법
+        - 둥근모서리 border-radius
+        - margin+padding 복습
+        - list-style (-type/ -position), 축약형은 띄어쓰기로 구분
+        - 요소의 실제 크기 계산 방법
