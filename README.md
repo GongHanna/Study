@@ -1,3 +1,8 @@
+# 240311 #
+**Figma** : 와이어프레임을 기준으로 모바일 사이트 디자인, https://bitekchems.com/ (바이텍켐스)
+
+**HTML/CSS** : 요소의 실제 크기, word-break: normal, break-all, keep-all; (줄바꿈), box-sizing(content-box /  border-box) ,넘치는 컨텐츠 제어 overflow (inherit, visible, hidden, auto, scroll), overflow-x,y
+
 # 240308 #
 **Figma** : mobile UI/UX design 방법 (ios, android), prototype : sticky/ fixed/ horizontal, FloatingActionButtons, Sections, 마크업 분석
 
