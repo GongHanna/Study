@@ -1,4 +1,9 @@
 # 240312 #
+**Figma** : 와이어프레임을 기준으로 모바일 사이트 리디자인, https://bitekchems.com/ (바이텍켐스), PC 버전으로 작업
+
+**HTML/CSS** : table 성격, 요소 성격 변경 display(inline; inline-block; block; none;)/ visibility(visible; hidden;)/ opacity(숫자, 불투명도 조절), 세로 중앙 정렬 방법 (height=line-height), :before, ::before, :after, ::after, accent-color
+
+# 240312 #
 **Figma** : 와이어프레임을 기준으로 모바일 사이트 리디자인, https://bitekchems.com/ (바이텍켐스)
 
 **HTML/CSS** : webFont 설정 방법 (html and css : fonts.google.com), CDN, Font origin: Network resource, max-width/ min-width, 마진상쇄 현상 해결 방법 : 부모 요소에 overflow: hidden;, empty-cells (show;/ hide;), border-spacing, border-collapse: separate;, border-collapse: collapse;
