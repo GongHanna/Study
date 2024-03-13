@@ -1,0 +1,25 @@
+오전 : Figma
+        - 와이어프레임을 기준으로 모바일 사이트 리디자인
+        - https://bitekchems.com/ 바이텍켐스
+        - PC 버전으로 작업
+        - https://bdmp-003.cafe24.com/bizdemo147104/ (원본 주소)
+
+오후 : CSS code 작성 방법
+        - cell 자체는 border-radius로 둥글게 처리하지 못함
+        - table 성격 : width 값을 주지 않아도 margin으로 중앙 정렬 가능
+        - 요소 성격 변경 display (요소의 기본 성격 변경. 상속x. 해당 요소에만 적용)
+           1) display
+                       : inline; (인라인 성격으로 변경)
+                       : inline-block; (인라인, 블록 성격 모두 가짐)
+                       : block; (블록 성격으로 변경)
+                       : none; (브라우저 상에서 없는 존재로 만듬, layout에 영향을 줌)
+           2) visibility
+                       : hidden; (숨김, 브라우저 영역은 남으나 컨텐츠가 보이지 않음)
+                       : visible; (보임)
+           3) opacity
+                       : 숫자; (불투명도 조절. 자식에게 영향을 줌. 0~1)
+        - "텍스트가 한 줄인 경우" 세로 중앙 정렬 방법
+            : height와 line-height의 값을 동일하게 적용
+        - :before, ::before (기준 요소 안의 컨텐츠 영역 앞쪽에 적용)
+        - :after, ::after (기준 요소 안의 컨텐츠 영역 뒤쪽에 적용)
+        - accent-color
