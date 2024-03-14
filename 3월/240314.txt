@@ -1,0 +1,28 @@
+오전 : UI/UX 디자인 이론과 실습
+        - UI의 종류 (CLI/ GUI, NUI, OUI)
+        - UI의 평가 기준 (휴리스틱 평가)
+        - UX의 이해
+        - 모바일 환경/ 터치 제스처
+        - 모바일 앱의 종류
+
+오후 : CSS code 작성 방법
+        - * 전체 선택자
+        - em 단위 (부모의 값에 따라 바뀜, 상대적인 값)
+          : 16px = 1em
+        - rem 단위 (최상위 요소(html)의 font-size를 기준으로 설정)
+        - viewport 단위
+          : vw: viewport width
+          : vh: viewport height
+        - flex-direction 정렬 (주축, 교차축)
+          1) display: flex; (상속되지 않음)
+             : flex-direction: row; (기본값) (주축 : 가로 왼 -> 오른/ 교차축: 세로 위 -> 아래)
+             : flex-direction: column; (주축 : 위 -> 아래/ 교차축: 왼 -> 오른)
+             : flex-direction: row-reverse; (주축은 역방향(오른 -> 왼))
+             : flex-direction: column-reverse; (주축은 역방향(아래 -> 위))
+
+             : flex-wrap: nowrap; (기본값. 플레스 아이템 한 줄 배치)
+             : flex-wrap: wrap; (줄바꿈)
+             : flex-wrap: wrap-reverse; (역방향 줄바꿈)
+        - 
+        - 
+        - 
