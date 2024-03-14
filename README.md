@@ -1,3 +1,8 @@
+# 240313 #
+**UI/UX 디자인 이론과 실습** : UI의 종류, UI의 평가 기준 (휴리스틱 평가), UX의 이해, 모바일 환경/ 터치 제스처, 모바일 앱의 종류
+
+**HTML/CSS** : * 전체 선택자, em 단위, rem 단위, viewport 단위(vw: viewport width/ vh: viewport height), flex-direction 정렬, display: flex; (상속되지 않음), flex-direction: row/colums/row-reverse/column-reverse;, flex-wrap: nowrap/wrap/wrap-reverse;
+
 # 240312 #
 **Figma** : 와이어프레임을 기준으로 모바일 사이트 리디자인, https://bitekchems.com/ (바이텍켐스), PC 버전으로 작업
 
