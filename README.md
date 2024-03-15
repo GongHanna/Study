@@ -1,9 +1,14 @@
-# 240313 #
+# 240315 #
+**HTML/CSS 오전** : flex-flow : <플렉스 방향> <플렉스 줄 배치>, gap:0; (기본값 / 아이템과 아이템 사이의 여백), justify-content / (주축 기준 아이템 하나씩 정렬), align-items / (교차축 기준 아이템 하나씩 정렬), align-content / (교차축 기준, 여러 아이템을 하나의 덩어리로 보고 정렬), align-self / (교차축 기준 개별 배치, 자식인 플렉스 아이템에 적용)
+
+**HTML/CSS 오후** : css 함수 : calc(값 * 값) 반드시 연산자를 띄어써야 함, margin: auto; (center center), margin-left: auto;/ margin-right: auto;/ margin-bottom: auto;/ margin-top: auto/ flexEx1 ~flexEx6
+
+# 240314 #
 **UI/UX 디자인 이론과 실습** : UI의 종류, UI의 평가 기준 (휴리스틱 평가), UX의 이해, 모바일 환경/ 터치 제스처, 모바일 앱의 종류
 
 **HTML/CSS** : * 전체 선택자, em 단위, rem 단위, viewport 단위(vw: viewport width/ vh: viewport height), flex-direction 정렬, display: flex; (상속되지 않음), flex-direction: row/colums/row-reverse/column-reverse;, flex-wrap: nowrap/wrap/wrap-reverse;
 
-# 240312 #
+# 240313 #
 **Figma** : 와이어프레임을 기준으로 모바일 사이트 리디자인, https://bitekchems.com/ (바이텍켐스), PC 버전으로 작업
 
 **HTML/CSS** : table 성격, 요소 성격 변경 display(inline; inline-block; block; none;)/ visibility(visible; hidden;)/ opacity(숫자, 불투명도 조절), 세로 중앙 정렬 방법 (height=line-height), :before, ::before, :after, ::after, accent-color
