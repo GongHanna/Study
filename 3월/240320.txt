@@ -1,0 +1,32 @@
+오전 : 첫번째 팀 프로젝트 : UI 디자인 (예약시스템)
+        - 자료 조사 및 정리
+        - 발표 : 하은혜
+
+오후 : CSS code 작성 방법
+        - 수열선택자Ex
+        - a의 수열선택자 작성 방법 (ex : .gnb li:last-child a = 마지막 자식 li의 a)
+        - background-image: url(외부 파일 링크 주소); (css 함수)
+               -> 배경 이미지의 기본값은 반복
+        - background-repeat: repeat; (반복. 기본값)
+        - background-repeat: repeat-y; (y축 반복)
+        - background-repeat: repeat-x; (x축 반복)
+        - background-repeat: no-repeat; (반복 없음)
+
+        - background-position: 0 0; / 기본값 x축 y축 (배경이미지 위치)
+
+        - background-attachment: scroll; (기본. 스크롤시 배경이미지도 함께 이동)
+        - background-attachment: fixed; ('viewport'를 기준으로 배경이미지 고정. 배경이미지 한정 브라우저의 전체 높이가 인식됨)
+
+        - background-size
+                 1. background-size: 400px; (가로 사이즈 기준으로 세로 사이즈 비율 자동 조절)
+                 2. background-size: 400px 200px; ( x y )
+                 3. background-size: 100%; (가로 사이즈에 맞춰 조절되며 이미지의 비율도 유지. 화면에서 잘리는 부분 존재)
+                 4. background-size: 100% 100%; (요소의 가로 세로 크기에 맞춰 조절되기 때문에 이미지의 비율이 맞지 않을 수 있음)
+                 5. background-size: contain; (영역에 맞춰 이미지 전부 보임. 공백이 생길 수 있으나 비율은 유지됨) / 로고 넣을때 자주 사용
+                 6. background-size: cover; (영역에 맞춰 전체 채움. 전체를 채우기 때문에 공백은 생기지 않으나 보이지 않는 배경이미지 부분이 생길 수 있음. 비율 유지)
+
+        - background: orange url(../images/240320/plants.jpg) no-repeat fixed 100% 0 / cover;
+           (축약형 : 순서 상관없이 작성 가능하나 background-size 작성시 반드시 포지션 / 사이즈 순서로 작성)
+
+        - background Multi (중첩은 쉼표로 구분. 먼저 작성된 값이 위에 보여짐)
+        - 
