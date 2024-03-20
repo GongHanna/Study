@@ -1,3 +1,8 @@
+# 240320 #
+**팀 프로젝트/UI 디자인 (예약시스템)** : 자료조사 및 정리, 발표 : 하은혜
+
+**HTML/CSS** : 수열선택자Ex, a의 수열선택자 작성 방법, background-image: url(외부 파일 링크 주소);, background-repeat: repeat/ repeat-y/ repeat-x/ no-repeat;, background-position: 0 0; / 기본값 x축 y축 (배경이미지 위치), background-attachment: scroll/ fixed;, background-size,  background 축약형 작성 방법, backgroundMulti (중첩은 쉼표로 구분. 먼저 작성된 값이 위에 보여짐)
+
 # 240319 #
 **팀 프로젝트/UI 디자인 (예약시스템)** : 자료조사
 
