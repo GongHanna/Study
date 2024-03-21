@@ -1,0 +1,25 @@
+오전 : 첫번째 팀 프로젝트 : UI 디자인 (예약시스템)
+        - 경쟁사의 강점, 약점 참고 => 개선 
+        - 사용자의 니즈 파악
+        - 1. 페르소나 작성 => 1~2 명 / 설정 근거 자료
+        - 2. UX VISION (우리의 목표와 사용자의 니즈 포함) ->선생님께 컨펌 받기
+        - 3. As is(문제점/ 디자인방향) -> To be(개선방향)
+
+오후 : CSS code 작성 방법
+        - bgEx.html
+        - svg 파일 vscode로 열기  (면색 변경 방법) : <svg fill="#색상코드"> 
+        - text-indent: 40px; (들여쓰기, 레이아웃에 영향을 주고 싶지 않을 때 사용)
+        - flex-item css 특성 종류
+             ㄴ order, flex-grow, flex-shrink, flex-basis, flex ...
+          1. flex-grow: 0; 숫자가 클수록 더 큰 영역을 가짐. 가변값이 아니거나 0인 경우 적용되지 않음. (기본값)
+          2. flex-shrink: 1; 숫자가 클수록 더 큰 영역 감소. 가변값이 아니거나 0인 경우 적용되지 않음. 
+          3. flex-basis: auto; 기본 가로 값 설정. auto인 경우 width, height 등의 특성으로 가로 설정이 가능하나 단위 값이 주어진 경우 설정 안됨.
+          4. flex: 증가비율(flex-grow) 감소비율(flex-shrink) 기준비율(flex-basis);
+          5. flex: 0 1 auto;  기본값  
+
+        - flex-shrink: 1; (기본값. 아이템이 컨테이너를 넘기지 않음)
+
+        - flex-basis: auto; (기본값. 아이템 컨텐츠 크기에 맞춰 grow 비율 설정)
+
+        - flexItem : order (숫자); (felx-item에 적용되는 속성으로 아이템 배치 순서 설정)
+
