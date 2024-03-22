@@ -1,7 +1,12 @@
+# 240322 #
+**팀 프로젝트/UI 디자인 (예약시스템)** : 페르소나 작성, 간단한 사용자 시나리오 작성, 정보구조도 IA (메뉴트리 작성)
+
+**HTML/CSS** : flexItemEx2, mini reset css (css 초기화 코드), meta /favicon, ttf to woff , woff2 (폰트 변환), 웹폰트를 사용하기 위한 사전 설정 방법, layout.html / layout.css / fonts.css
+
 # 240321 #
 **팀 프로젝트/UI 디자인 (예약시스템)** : 경쟁사의 강점, 약점 참고 => 개선, 사용자의 니즈 파악, 페르소나 자료조사, 일지 작성
 
-**HTML/CSS** : svg 파일 vscode로 열기  (면색 변경 방법) : <svg fill="#색상코드"> , flex-item css 특성 종류(order, flex-grow, flex-shrink, flex-basis, flex ...), 
+**HTML/CSS** : svg 파일 vscode로 열기  (면색 변경 방법) : <svg fill="#색상코드"> , flex-item css 특성 종류(order, flex-grow, flex-shrink, flex-basis, flex ...)
 
 # 240320 #
 **팀 프로젝트/UI 디자인 (예약시스템)** : 자료조사 및 정리, 발표 : 하은혜
