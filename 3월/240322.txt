@@ -1,0 +1,19 @@
+오전 : 첫번째 팀 프로젝트 : UI/UX 디자인 (예약시스템)
+        - 간단한 사용자 시나리오 작성
+        - 정보구조도 IA (메뉴트리 작성)
+        - 페르소나 작성해서 과제방에 올리기
+
+오후 : CSS code 작성 방법
+        - flexItemEx2
+        - meta / favicon
+        - mini reset css (css 초기화 코드)
+        - @at-rule
+          @import 다른 문서를 가져올 때 @import url();\
+          @media 미디어쿼리 적용
+          @keyframes 애니메이션 만들때
+          @supports 브라우저가 특정 css 지원여부 확인
+          @font-face 
+        - ttf to woff , woff2 (폰트 변환)
+        - 웹폰트를 사용하기 위한 사전 설정 방법
+        - layout.html / layout.css / fonts.css
+
