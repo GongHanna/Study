@@ -1,0 +1,23 @@
+오전 : 첫번째 팀 프로젝트 : UI/UX 디자인 (예약시스템)
+        - 와이어프레임/ 플로차트 작성
+        - 서브흐름/ 메인흐름/ 페이지 설명(간략하게)
+        - 홈(전시설명)/ 예약/ 안내사항/ 회원정보
+        - figma로 제작
+
+오후 : CSS code 작성 방법
+        - positionEX2, positionEx3
+        - ::selection /* 문서를 드래그 했을 때 */
+        - min == code 압축되었다는 뜻
+        - reset.css 수정 및 작성 ->boxsizing들어가 있음
+        - 웹 폰트 연결
+        - can i use -> scrollbar 녹색 : 모두 지원/ 빨간색 : 지원 안됨
+        - body::-webkit-scrollbar
+            vedor prefix
+            확정되지 않은 기능을 개발자가 미리 사용할 수 있게 만들어 놓은 약속어
+            브라우저에 내장된 기능을 이 벤더(접두어)를 통해 사용하게 만듦
+            -m- IE
+            -webkit- 크롬, 엣지, 웨일
+            -o- 오페라
+            -moz- 파이어폭스
+
+
