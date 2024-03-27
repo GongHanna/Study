@@ -1,0 +1,28 @@
+오전 : CSS code 작성 방법 
+        - 스크롤바 제어 방법
+            1. body::-webkit-scrollbar (스크롤바 가로크기)
+            2. body::-webkit-scrollbar-track (스크롤바 배경)
+            3. body::-webkit-scrollbar-thumb (스크롤바 핸들)
+
+        - position: sticky; (사용자 스크롤 기준 포지션)
+            해당 요소가 위치 특성 값이 지정한 곳에 도달하면 고정 위치의 포지션으로 성격이 바뀜
+              1. 부모 요소들 중 하나라도 overflow:hidden이 적용되어 있으면 동작하지 않음
+              2. height 값이 %로 설정된 경우 동작하지 않음
+              3. top, right, left, bottom 중 반드시 하나만 작성되어야하며 작성하지 않으면 relative와 동일한 성격을 가짐
+
+        - z-index: (숫자); (position, flex, grid 요소 계층 순위 설정)
+           9, 99, 999, 9999/ 1, 10, 100, 1000
+
+        - width: 100vw;의 문제점 -> 세로 스크롤바가 생겼을 때 적용 시, 스크롤바의 width 값만큼 콘텐츠가 넘치게 되면서 빈 칸이 생김 (뷰포트 단위는 스크롤바를 인식을 하지 못하기 때문)
+
+        - header/footer 영역은 height 값 줘도 됨 (고정값)
+
+
+오후 : 첫번째 팀 프로젝트 : UI/UX 디자인 (예약시스템)
+        - 와이어프레임/ workflow(플로차트) 작성
+        - 체크리스트 작성 15가지
+        - prototype 제작
+
+
+
+
