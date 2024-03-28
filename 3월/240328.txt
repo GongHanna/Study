@@ -1,0 +1,32 @@
+오전 : CSS code 작성 방법 
+        - https://picsum.photos/ (place img site)
+        - object-fit (이미지<img>나 비디오<video>의 비율 조절)
+              1. object-fit: fill; /* 기본값. 비율 상관없이 가득 채움 */
+              2. object-fit: contain; /* 비율 유지. 원본이 전부 보여짐. 대신 일부 여백이 생길 수 있음 */
+              3. object-fit: cover; /* 비율 유지. 원본이 부모 영역을 가득 채우나 일부 가려지는 부분이 있을 수 있음 */
+              4. object-fit: none; /* 원본 사이즈. 크기 조절 x */
+              5. object-fit: scale-down; /* none과 contain 중 이미지 크기가 더 작아지는 값 선택 */
+
+        - object-position
+              1. object-position: 50% 50%; /* 기본값 x축 y축 */ 
+                   == object-position: center;
+              2. object-position: 100px 50px;
+              3. object-position: 100% 50%; /* ==right center */
+              4. object-position: 20%; /* ==20% 50% 한 자리 숫자 작성시 두번째 y축은 50%가 기본 */
+
+        - video code 작성 시 크롬에서 볼 때는 muted(음소거) 를 작성해야 자동재생 가능
+        - 가변 비디오
+
+        - aspect-ratio (가로 세로 비율 설정)
+              1. aspect-ratio: auto; /* 기본값, contents가 들어간 값만큼만 주겠다 */
+              2. aspect-ratio: 1 / 1; /* 가로 기준 비율 1 : 세로 비율 1 */
+              3. aspect-ratio: 0.5; /* 가로 기준 비율 1 : 세로 비율 2 */
+              4. 가로 세로 값이 같이 적용된 경우 적용 x
+              5. 컨텐츠가 넘치는 경우 적용 x
+
+오후 : 첫번째 팀 프로젝트 : UI/UX 디자인 (예약시스템)
+        - prototype 제작
+
+
+
+
