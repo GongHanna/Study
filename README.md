@@ -1,3 +1,8 @@
+# 240328 #
+**팀 프로젝트/UI 디자인 (예약시스템)** : prototype 제작
+
+**HTML/CSS** : object-fit (이미지<img>나 비디오<video>의 비율 조절), object-position, aspect-ratio (가로 세로 비율 설정)
+
 # 240327 #
 **팀 프로젝트/UI 디자인 (예약시스템)** : 체크리스트 작성, prototype 제작
 
