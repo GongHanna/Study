@@ -1,0 +1,11 @@
+오전 : CSS code 작성 방법 
+        - SPA/ MPA (싱글페이지/ 멀티페이지)
+        - @import url('경로 설정'); (css 문서에서 css 문서 연결 방법)
+        - navEx1/ navEx2
+
+오후 : 첫번째 팀 프로젝트 : UI/UX 디자인 (예약시스템)
+        - prototype 제작
+
+
+
+
