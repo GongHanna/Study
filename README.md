@@ -1,3 +1,8 @@
+# 240401 #
+**팀 프로젝트/UI 디자인 (예약시스템)** : prototype 제작
+
+**HTML/CSS** : transition-property(움직임 속성), transition-duration(움직임 진행시간), transition-delay, transition-timing-function(움직임 형태 제어), transform:scale(); (크기/ 배수의 값으로 단위값 없음), transform:rotate( 값 deg) (회전), transform:skew( 값 deg) (기울기), transform:traslate() (이동), transform-origin: 값; (기준축)/ 기본값 50%
+
 # 240329 #
 **팀 프로젝트/UI 디자인 (예약시스템)** : prototype 제작
 
