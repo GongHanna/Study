@@ -1,0 +1,24 @@
+오전 : CSS code 작성 방법 
+        - navEx2 css
+        - transition-property(움직임 속성), transition-duration(움직임 진행시간)
+        - transition-delay
+        - transition-timing-function(움직임 형태 제어)
+           1. transition-timing-function: linear; /* 동일한 속도로 진행 */
+           2. transition-timing-function: ease; /* 기본값, 서서히 증가하다가 끝에서 느려짐 */ 
+           3. transition-timing-function: ease-in; /* 천천히 시작해서 끝날 때 빨라짐 */
+           4. transition-timing-function: ease-out;
+           5. transition-timing-function: ease-in-out;
+           6. transition-timing-function: cubic-bezier(0,-0.42,.66,1.52); /* 사용자 정의 움직임 형태 */
+
+        - transform:scale(); (크기/ 배수의 값으로 단위값 없음)
+        - transform:rotate( 값 deg) (회전)
+        - transform:skew( 값 deg) (기울기)
+        - transform:traslate() (이동)
+        - transform-origin: 값; (기준축)/ 기본값 50%
+
+오후 : 첫번째 팀 프로젝트 : UI/UX 디자인 (예약시스템)
+        - prototype 제작
+
+
+
+
