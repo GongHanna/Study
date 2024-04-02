@@ -1,0 +1,16 @@
+오전 : CSS code 작성 방법 
+        - 일반적인 흐름일 때 마진 상쇄현상 해결 방법 > overflow:hidden;
+        - position: static; /* 포지션 초기화 */
+        - transform: perspective() 원근감
+            1. transform: perspective(40vw) rotateX(45deg); 
+                /* transform: perspective(); 원근감을 주고자 하는 대상에 직접 적용 */
+            2. perspective: 40vw; /* 부모 요소에 적용. 하나의 덩어리로 보고 원근값 적용 */
+        - text-indent: -9999px; /* 내쓰기, 화면 밖으로 나감 */
+
+오후 : 첫번째 팀 프로젝트 : UI/UX 디자인 (예약시스템)
+        - prototype 제작
+https://www.figma.com/file/RnsWHPq2OkIhmeXloQhoYZ/%EB%84%A4%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?type=design&node-id=0-1&mode=design&t=ZkYNL9HdOcsMhhew-0
+        - 디자인 소스 정리
+
+
+
