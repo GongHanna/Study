@@ -1,3 +1,9 @@
+# 240402 #
+**팀 프로젝트/UI 디자인 (예약시스템)** : prototype 제작(https://www.figma.com/file/RnsWHPq2OkIhmeXloQhoYZ/%EB%84%A4%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?type=design&node-id=0-1&mode=design&t=ZkYNL9HdOcsMhhew-0
+), 디자인 소스 정리
+
+**HTML/CSS** : position: static; /* 포지션 초기화 */, transform: perspective() 원근감, transEx 예제들 
+
 # 240401 #
 **팀 프로젝트/UI 디자인 (예약시스템)** : prototype 제작
 
