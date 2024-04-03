@@ -1,0 +1,19 @@
+오전 : CSS code 작성 방법 
+        - 아이콘 연결 (css)
+        - https://css-generator.netlify.app/
+        - linear-gradient()/ 
+        - /* font icons : 서체의 속성으로 제어 가능한 아이콘 ex) goolge icons, font awesome.. */
+        - animationBasic
+           1. animation-name: ; /* 애니메이션 이름. 키프레임에 부여한 이름 */
+           2. animation-duration: ; /* 진행시간 */
+           3. animation-delay: ; /* 대기시간 */
+           4. animation-timing-function: ; /* 움직임 스타일 */
+           5. @keyframes (ani1) {} / (사용자 정의 이름)
+               /* 애니메이션을 적용시키기 위해 미리 만들어 놓은 움직임. 작성 위치는 상관 없음 */
+
+오후 : 첫번째 팀 프로젝트 : UI/UX 디자인 (예약시스템)
+https://www.figma.com/file/RnsWHPq2OkIhmeXloQhoYZ/%EB%84%A4%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?type=design&node-id=0-1&mode=design&t=ZkYNL9HdOcsMhhew-0
+        - 발표 PPT 제작
+
+
+
