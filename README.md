@@ -1,3 +1,20 @@
+# 240404 #
+**팀 프로젝트/UI 디자인 (예약시스템)** : 발표 대본 작성
+
+**HTML/CSS** : animation/ text-shadow: px px #color;/ aniEx1, 2, 3
+1. animation-name: ani2; /* 애니메이션 이름. 키프레임에 부여한 이름 */
+2.  2. animation-duration: 2s; /* 진행시간 */
+3. animation-delay: 0.5s; /* 대기시간 */
+4. animation-timing-function: linear; /* 움직임 스타일 */
+5. animation-iteration-count: infinite; /* 반복횟수. 무한 */
+6. animation-fill-mode: backwards; /* 끝난 후 위치. 기본값 끝난 후 출발점으로 돌아옴 */
+7. animation-fill-mode: forwards; /* 끝난 후 도착점에 그대로 있음 */
+8. animation-direction: normal; /* 방향. 기본값 */
+9. animation-direction: reverse; /* 역방향 to, 100% -> from, 0% */
+10. animation-direction: alternate-reverse; /* 역방향 진행 후 순방향 진행 3>2>1>2>3 */
+11. animation-direction: alternate; /* 순방향 진행 후 역방향 진행 1>2>3>2>1 */
+12. animation-play-state: paused; /* 일시멈춤 */
+
 # 240403 #
 **팀 프로젝트/UI 디자인 (예약시스템)** : 발표 PPT 제작
 
