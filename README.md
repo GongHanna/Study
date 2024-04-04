@@ -3,7 +3,7 @@
 
 **HTML/CSS** : animation/ text-shadow: px px #color;/ aniEx1, 2, 3
 1. animation-name: ani2; /* 애니메이션 이름. 키프레임에 부여한 이름 */
-2.  2. animation-duration: 2s; /* 진행시간 */
+2. animation-duration: 2s; /* 진행시간 */
 3. animation-delay: 0.5s; /* 대기시간 */
 4. animation-timing-function: linear; /* 움직임 스타일 */
 5. animation-iteration-count: infinite; /* 반복횟수. 무한 */
