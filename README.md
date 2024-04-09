@@ -1,3 +1,6 @@
+# 240409 #
+**HTML/CSS** : https://www.panstar.co.kr/ 사이트 구현, youtube 옵션 ~/embed/유튜브비디오아이디&amp;옵션1=값&반족=true&음소거=true&자동실행=true, :not(:first-child), display: grid;  place-items: center;
+
 # 240408 #
 **팀 프로젝트/UI 디자인 (예약시스템)** : 왼료 보고서 작성 및 제출
 
