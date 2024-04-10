@@ -1,0 +1,47 @@
+오전 : CSS code 작성 방법 
+        - https://www.panstar.co.kr/ 팬스타 웹 사이트 제작
+        - /* At a Glance */
+        - /* Business Area */
+        - /* location */
+
+오후 : CSS code 작성 방법 
+        - /* location */
+        - kakaodevlopers / Web 플랫폼 등록
+             1. https://gonghanna.github.io
+             2. https://localhost:3000
+             3. http://localhost:3000
+             4. https://localhost:5500
+             5. http://localhost:5500
+             6. http://127.0.0.1:5500
+        - https://apis.map.kakao.com/ 카카오맵
+        - 지도의 위도,경도 수정
+        - 백그라운드 컬러와 이미지 중첩 방법
+
+        -  /* Contac Us */
+        -  /* 한 줄 말줄임 ... */ 
+            width: 400px;
+            text-overflow: ellipsis; 말줄임
+            white-space: nowrap; 자동 줄바꿈 금지
+            overflow: hidden;
+
+        -   /* 여러 줄 말줄임 ... */
+            display: -webkit-box;
+            text-overflow: ellipsis;
+            -webkit-line-clamp: 2; /* 여러 줄일 때 텍스트를 자르는 줄 */
+            -webkit-box-orient: vertical; /* 박스 진행 방향 */
+            overflow: hidden;
+
+        - list-style: inside flower;
+        - /* 기본 리스트 스타일 외 스타일 설정 */
+         @counter-style flower {
+         system: cyclic; /* 같은 값 반복 */
+         symbols: "🌼";
+         suffix: " "; /* 머릿말 기호 다음 처리 방식 */
+         }
+        - float: right; /* 요소의 진행 방향 설정. left, right 두 값만 존재. 최근엔 잘 사용하지 않음 */
+        - align-self: stretch;
+
+        - filter: grayscale(100%) contrast(20%); /* css filter, https://developer.mozilla.org/ko/docs/Web/CSS/filter */
+
+
+
