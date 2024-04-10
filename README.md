@@ -1,3 +1,6 @@
+# 240410 #
+**HTML/CSS** : https://www.panstar.co.kr/ 사이트 구현, kakaodevlopers / Web 플랫폼 등록, 백그라운드 컬러와 이미지 중첩 방법, 한 줄 말줄임/ 여러 줄 말줄임, 기본 리스트 스타일 외 스타일 설정방법, float: right;, align-self: stretch;, filter: grayscale(100%) contrast(20%); /* css filter, https://developer.mozilla.org/ko/docs/Web/CSS/filter */
+
 # 240409 #
 **HTML/CSS** : https://www.panstar.co.kr/ 사이트 구현, youtube 옵션 ~/embed/유튜브비디오아이디&amp;옵션1=값&반족=true&음소거=true&자동실행=true, :not(:first-child), display: grid;  place-items: center;
 
