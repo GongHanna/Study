@@ -1,0 +1,61 @@
+오전 : CSS code 작성 방법 
+        - /* footer */
+        - text-underline-offset: 3px; /* 밑줄 간격 거리 조절 */
+        - svg code로 제어 방법
+        - /* grid는 반응형 웹에서 가장 효과적을 사용하고 있음 */
+
+        - display: grid;
+         1. /* 1행 2행 3행 4행의 높이(세로) 값 */
+           grid-template-rows: 100px 200px 150px 50px;
+         2. /* 부모 요소의 높이 값이 지정되어 있지 않으면 아이템들끼리 상대 비율로 적용 */
+           grid-template-rows: 20% 20% 40% 40%;
+         3. /* fr(fraction) 비율, 분수 ( 숫자 / 전체 숫자의 합 ) */
+           grid-template-rows: 1fr 2fr 2fr 4fr;
+
+         1. /* 1열 2열 3열 4열의 너비(가로) 값 */
+          grid-template-columns: 100px 200px 150px 50px;
+         2. /* 2열 */
+          grid-template-columns: 30vh 10em;
+         3. /* 3열 */
+          grid-template-columns: 50% 150px 10vw;
+         4. /* 1열 1fr == 100% */
+          grid-template-columns: 1fr;
+
+        - grid-template: minmax(최소값, 최대값) /* (함수) */
+
+        - /* row/ col 축약형 */
+          grid-template: 100px 100px /1fr 1fr;
+
+        - gap: ; / row-gap : ; / column-gap: ;
+        - 문자 o(알파벳) 기준 5ch == ooooo, 2ch == oo
+
+        - repeat(반복횟수, 크기); 행과 열의 값 반복
+           grid-template: 100px 100px / repeat(7, 1fr);
+
+          /* 암시적 그리드: 명시적 그리드 외 추가되는 행의 크기를 정의 */
+          /* grid-auto-rows: auto; 기본값 */
+        - grid-auto-rows: 명시된 행 외의 줄 추가
+        - min-content: 콘텐츠가 넘치치 않게 하면서 가능한 한 트랙을 작게 만듦. 텍스트 중 가장 짧은 단어를 기준으로 가로 사이즈 지정
+          grid-auto-columns: min-content;
+        - max-content: 컨텐츠 기준 가장 긴 부분의 내용에 따라 가로 사이즈 지정. 문자열이 줄바꿈되지 않으면 오버플로가 발생할 수 있음
+          grid-auto-columns: max-content;
+
+오후 : CSS code 작성 방법 
+        - grid line: 셀 제어 / grid-row, grid-column
+
+        - 그리드 아이템 정렬: justify-content, align-content
+        - place-content: center center; /* align-content justify-content */
+        - 그리드 아이템 정렬: justify-items, align-items
+        - place-items: center; (셀 안에서의 중앙 정렬)
+
+        - 그리드 아이템 개별 정렬: justify-self, align-self, place-self
+        - order: flex-item, grid-item에 적용. 아이템들의 순서를 정함
+
+        - auto-fit: 아이템의 크기를 늘려 채움
+        - auto-fill: 최대한 많은 아이템을 채움. 확장 시키지 않으며 여백이 남을 수 있음
+
+        - gridBasic1 ~ 10.html
+        - gridEx1 ~ 5.html
+
+
+
