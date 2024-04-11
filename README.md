@@ -1,3 +1,6 @@
+# 240411 #
+**HTML/CSS** : display: grid;, grid-template-rows: 높이(세로) 값;, grid-template-columns: 너비(가로) 값;, grid-template: minmax(최소값, 최대값), 문자 o(알파벳) 기준 5ch == ooooo, 2ch == oo, gap: ; / row-gap : ; / column-gap: ;, repeat(반복횟수, 크기); 행과 열의 값 반복, grid-auto-rows: 명시된 행 외의 줄 추가, min-content / max-content, grid line: 셀 제어, 그리드 아이템 정렬: justify-content, align-content, justify-items, align-items, 그리드 아이템 개별 정렬: justify-self, align-self, place-self, auto-fit / auto-fill
+
 # 240410 #
 **HTML/CSS** : https://www.panstar.co.kr/ 사이트 구현, kakaodevlopers / Web 플랫폼 등록, 백그라운드 컬러와 이미지 중첩 방법, 한 줄 말줄임/ 여러 줄 말줄임, 기본 리스트 스타일 외 스타일 설정방법, float: right;, align-self: stretch;, filter: grayscale(100%) contrast(20%); /* css filter, https://developer.mozilla.org/ko/docs/Web/CSS/filter */
 
