@@ -1,0 +1,21 @@
+오전 : CSS code 작성 방법 
+        - gridEx6 ~ 8.html
+        - list-style-position: inside;
+        - box-shadow: x축 y축 블러값 #컬러; (블러값 생략 가능)
+        - writing-mode: vertical-lr; /* 텍스트의 진행 방향의 가로, 세로 정렬. 상속 */
+        - text-orientation: upright; /* writing-mode 작성시 영어의 글자 방향 */
+        - letter-spacing: 2px; /* 글자 자간 늘려줌 */
+
+오후 : CSS code 작성 방법 
+        - <meta name="viewport" ...>
+
+        - 미디어 쿼리 
+        - @media [only 또는 not] [미디어유형] [and 혹은 ,] (조건문) {실행문}
+        - 모바일 우선인 경우 min-width/ 가로 크기가 작은 순서대로 작성
+        - pc 우선인 경우 max-width/ 가로 크기가 큰 순서대로 작성
+
+        - 외부 선언 1, 2, 3 / 모바일 우선인 경우 작은 값을 먼저 연결
+        - 내부 선언
+
+
+
