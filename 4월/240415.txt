@@ -1,0 +1,14 @@
+오전 : CSS code 작성 방법 
+        - mqEx1 ~4.html / 미디어쿼리
+        - grid-column: auto; (이전 값 초기화, auto 작성)
+
+오후 : CSS code 작성 방법 
+        - <script> 대소문자 구분함(자바스크립트 맛보기)
+        - const = 변수 (띄어쓰기 없음, 주로 카멜표기법 사용)
+        - toggle (0과 1, on/off), 하나의 버튼을 가지고 두 개의 동작
+        - https://bdmp-001.cafe24.com/bizdemo144534/ 웹, 모바일 버전 작업
+        - 피그마로 구조 파악
+
+
+
+
