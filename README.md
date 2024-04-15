@@ -1,5 +1,5 @@
 # 240415 #
-**HTML/CSS** : 
+**HTML/CSS** : grid-column: auto; (이전 값 초기화, auto 작성), mqEx1 ~4.html, https://bdmp-001.cafe24.com/bizdemo144534/ 웹, 모바일 버전 작업
 
 # 240412 #
 **HTML/CSS** : gridEx6 ~ 8.html, 미디어 쿼리, box-shadow: x축 y축 블러값 #컬러; (블러값 생략 가능), writing-mode: vertical-lr; (텍스트의 진행 방향의 가로, 세로 정렬. 상속),  text-orientation: upright;  (writing-mode 작성시 영어의 글자 방향), letter-spacing: 2px; (글자 자간 늘려줌)
