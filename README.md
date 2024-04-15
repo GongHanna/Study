@@ -1,5 +1,8 @@
+# 240415 #
+**HTML/CSS** : 
+
 # 240412 #
-**HTML/CSS** : gridEx6 ~ 8.html, 미디어 쿼리 
+**HTML/CSS** : gridEx6 ~ 8.html, 미디어 쿼리, box-shadow: x축 y축 블러값 #컬러; (블러값 생략 가능), writing-mode: vertical-lr; (텍스트의 진행 방향의 가로, 세로 정렬. 상속),  text-orientation: upright;  (writing-mode 작성시 영어의 글자 방향), letter-spacing: 2px; (글자 자간 늘려줌)
 
 # 240411 #
 **HTML/CSS** : display: grid;, grid-template-rows: 높이(세로) 값;, grid-template-columns: 너비(가로) 값;, grid-template: minmax(최소값, 최대값), 문자 o(알파벳) 기준 5ch == ooooo, 2ch == oo, gap: ; / row-gap : ; / column-gap: ;, repeat(반복횟수, 크기); 행과 열의 값 반복, grid-auto-rows: 명시된 행 외의 줄 추가, min-content / max-content, grid line: 셀 제어, 그리드 아이템 정렬: justify-content, align-content, justify-items, align-items, 그리드 아이템 개별 정렬: justify-self, align-self, place-self, auto-fit / auto-fill
