@@ -1,3 +1,6 @@
+# 240416 #
+**HTML/CSS** : https://bdmp-001.cafe24.com/bizdemo144534/ 웹, 모바일 버전 작업, js개인 공부, swiper js 개인공부
+
 # 240415 #
 **HTML/CSS** : grid-column: auto; (이전 값 초기화, auto 작성), mqEx1 ~4.html, https://bdmp-001.cafe24.com/bizdemo144534/ 웹, 모바일 버전 작업
 
