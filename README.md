@@ -1,3 +1,6 @@
+# 240417 #
+**HTML/CSS** : 바이텍캠 웹사이트 모바일 버전 제작(평가용 웹사이트)
+
 # 240416 #
 **HTML/CSS** : https://bdmp-001.cafe24.com/bizdemo144534/ 웹, 모바일 버전 작업, js개인 공부, swiper js 개인공부
 
