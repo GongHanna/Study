@@ -1,0 +1,26 @@
+오전 : CSS code 작성 방법 
+        - https://bdmp-001.cafe24.com/bizdemo144534/ 
+        - 웹, 모바일 버전 작업 (with. 선생님)
+        - 가로 1400px~1200px 까지 줄였을 때 레이아웃이 무너지지 않게 작업해야함(반응형)
+        - https://uiux.egovframe.go.kr/guide/index.html (디지털 정부서비스 UI/UX 가이드라인)
+        - 헤더와 푸터를 정할 때는 안에 콘텐츠가 변해도 변하지 않는 영역으로 정해야 함
+        - section/ article 제목태그가 들어가야함
+        - 'Pretendard' font, "Montserrat" font 연결
+
+오후 : CSS code 작성 방법 
+        - css var(변수)
+          1. 전역 변수 (전체 영역에 적용되는 변수)
+             :root {
+	  선언(설정)
+	  --이름: 값;
+           }
+	  적용
+	  body {
+	   font-famliy: var(--이름);
+           }
+
+        - backdrop-filter: ; (요소 뒤 영역에 그래픽 효과 적용)
+
+
+
+
