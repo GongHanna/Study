@@ -1,3 +1,6 @@
+# 240418 #
+**HTML/CSS** : https://bdmp-001.cafe24.com/bizdemo144534/ 웹,모바일 버전 작업, css var(변수), backdrop-filter: ; (요소 뒤 영역에 그래픽 효과 적용)
+
 # 240417 #
 **HTML/CSS** : 바이텍캠 웹사이트 모바일 버전 제작(평가용 웹사이트)
 
