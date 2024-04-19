@@ -1,3 +1,6 @@
+# 240419 #
+**HTML/CSS** : https://bdmp-001.cafe24.com/bizdemo144534/ 웹,모바일 버전 작업, 유튜브 비율 유지 방법 => width: 100%; aspect-ratio: 16 / 9;, ::after 값 없애는 방법 => height: 0; / display: inline; / content: none;, position: static; /* 이전 position:fixed;값 초기화 */, gap: initial; (이전 gap 값 초기화), swiper js/ 플러그인 사용 및 적용 방법, gridEx 예제 연습 / 반응형 (pc tablet moblie)
+
 # 240418 #
 **HTML/CSS** : https://bdmp-001.cafe24.com/bizdemo144534/ 웹,모바일 버전 작업, css var(변수), backdrop-filter: ; (요소 뒤 영역에 그래픽 효과 적용)
 
