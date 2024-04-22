@@ -1,0 +1,32 @@
+오전 : JAVA Script
+        - codepen (코드펜 사용 방법)
+        - SCSS to CSS (변환)
+        - 스크립트는 모든 문서를 불러온 다음에 실행이 되어야 하기 때문에 body tag 안에서 맨 밑에 작성해야 함
+        - 코드 작성 표기법 (케밥 blog-slide, 스네이크 blog_slide, 카멜 blogSlide, 파스칼BlogSlide)
+        - https://roadmap.sh/ (개발자 로드맵 사이트)
+        - 자바 스크립트 내부 선언/ 외부 선언
+        - shift+alt+a => /*  */
+        - Object.method(parameter); 객체. 메서드(매개변수);
+        - defer 속성 작성시 스크립트 내부에 문서 준비 이벤트 불필요/ <script src="./javaScriptBasic.js" defer></script>
+        - 사용자 입출력, 알림 => alert(); confirm(); prompt();
+        - undefined : 변수가 선언만 되고 값을 할당 받지 못했을 때
+        - 변수 선언, 선언 후 대입, 변수 선언과 동시에 대입 (var, let)
+
+오후 : JAVA Script
+        - var = 변수 호이스팅 가능, let = 변수 호이스팅 불가능
+        - var = 중복 선언, 재선언 가능, let = 중복 선언, 재선언 불가능
+        - const상수 : 변하지 않는 수, 상수의 경우 선언 후 대입 x, 호이스팅 불가능,재할당, 재선언 불가능
+        - 데이터 타입 (string, number, boolean, undefined, null, object, function, array, typeof)
+        - 산술 연산자 (= 대입 혹은 할당, + 더하기, - 빼기, * 곱하기, / 나누기, % 나머지값, **거듭제곱)
+        - 문자열 연산자 (더하기, 빼기, 곱하기, 나누기)
+        - 대입(할당) 연산자 (= 를 기준으로 우변의 숫자만큼 연산하여 좌변의 변수에 "새로운 값으로 갱신")
+        - 변수 초기화
+            1. let txt = ''; 문자열
+            2. let num = 0; 숫자
+            3. let boo = false; 불리언
+            4. let obj = null; 객체
+
+
+
+
+
