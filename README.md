@@ -1,5 +1,22 @@
+# 240424 #
+**JAVA Script** : 
+- ifEx6.html - if문==삼항연사자==단락구문평가로 작성하는 방법
+- switch 선택문2
+1. window.location.href = "https://~"; 현재 탭에서 이동
+2. window.open('about:blank').location.href = "https://~"; 새 탭으로 열기
+- innerText : 텍스트만 집어 넣음, innerHTML : html tag 적용 가능
+- .toLocaleString() 지역별 정의값을 문자열로 반환
+- 중첩 switch문Ex.html
+- for 반복문 : 조건이 만족되는 동안 반복 실행
+- console.log('345' == 345); // 비교 연산시 숫자형 문자열은 자동형변환되어 비교
+- 변수 scope
+1. function level scope : 함수 내에서만 유효한 범위. var
+2. block level scope : {} 안에서만 유효한 범위. function, if, for, switch문 등. let
+- while반복문: 조건이 참인 동안 반복, 반드시 종료될 수 있는 조건 필요
+- break;
+
 # 240423 #
-**HTML/CSS/JAVA Script** : 
+**JAVA Script** : 
 - 증감 연산자 (변수의 값을 1씩 증가 시키거나 감소 시킴, 변수에만 적용 가능, ++(증가) --(감소))
   1. ++a 전위 증가 연산자: 변수를 불러오기 전에 1 증가 후 출력
   2. a++ 후위 증가 연산자: 변수를 먼저 출력 후 1 증가    
