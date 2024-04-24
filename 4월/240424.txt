@@ -1,0 +1,33 @@
+오전 : JAVA Script
+        - ifEx6.html - if문==삼항연사자==단락구문평가로 작성하는 방법
+
+        - switch 선택문2
+	1. window.location.href = "https://~"; 현재 탭에서 이동
+	2. window.open('about:blank').location.href = "https://~"; 새 탭으로 열기
+
+        - innerText : 텍스트만 집어 넣음, innerHTML : html tag 적용 가능
+        - .toLocaleString() 지역별 정의값을 문자열로 반환
+        - 중첩 switch문Ex.html
+
+오후 : JAVA Script
+        - for 반복문 : 조건이 만족되는 동안 반복 실행
+	for(초기값; 조건식; 증감식) { 실행문; }
+	ex) for(let num = 1; num <= 10; num++) { console.log(num); }
+        -  console.log('345' == 345); // 비교 연산시 숫자형 문자열은 자동형변환되어 비교
+
+        - 변수 scope
+	1. function level scope : 함수 내에서만 유효한 범위. var
+	2. block level scope : {} 안에서만 유효한 범위. function, if, for, switch문 등. let
+	ex)var i = 10; var i = 20; // 같은 키워드로 같은 이름의 재선언이 허용
+	ex)let k = 10;  // let k = 20; 같은 키워드로 같은 이름의 재선언 허용 안됨
+	k = 30; // 재할당만 가능
+
+        - while반복문: 조건이 참인 동안 반복, 반드시 종료될 수 있는 조건 필요
+	let 식별자 = 초기값;
+    	while(조건) { <- 한계가 설정되지 않으면 무한 반복 되기 때문에 '반드시' 빠져나올 조건이 필요함
+      	  조건이 만족될때까지의 실행문;
+      	  증감식; (이 값이 없으면 초기값으로 무한 반복)
+    	}
+        - break;
+
+
