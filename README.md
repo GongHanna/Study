@@ -1,3 +1,31 @@
+# 240425 #
+**JAVA Script** : 
+- break키워드 : 이 키워드를 만나는 즉시 구문을 벗어남. if, while, switch, for 문
+- continue키워드 : 이 키워드를 만나면 건너띄고 다시 반복문의 처음으로 돌아감 (반복문에서만 사용 됨)
+- isNaN();
+1. NaN을 확인하는 함수. NaN 맞으면 true, 아니면 false
+2. NaN은 비교함수로 판별하지 않음
+3. isNaN('문자열'); true 반환하기 때문에 문자임을 인식할 수 있음
+4. isNaN(123); false 반환하면 숫자임을 인식할 수 있음
+- 객체 Object :
+1. 객체, 함수, 배열, 정규 표현식 등 변형 가능한 데이터들의 집합
+2. 객체 종류: 코어(내장) 객체(Array, Math, Date, Number, String ...), DOM 객체, BOM 객체 ...
+3. 함수 표현식 const fn = function () {}
+4. 객체 표현식 const obj = {} , (객체는 변수에 대입해서 사용)
+- window 객체는 생략 가능
+- new Object(); 생성자 함수(new 뒤에 오는 단어는 무조건 대문자로 시작)
+- toLocaleString(); 현지 날짜, 시간, 숫자, 통화, 단위 등에 맞춤
+- delete 키워드 : 객체 속성 제거. 배열의 요소도 삭제되나 배열의 길이는 변경되지 않음. (ex. delete menu.array;)
+- Date객체
+1. 날씨와 시간을 생성하는 내장 객체이자 생성자 함수
+2. new Date(), 현재 날짜 시간을 알려주는 Date 객체를 생성하는 생성자 함수
+3. 날짜 정보 가져올 때 getDate()
+4. 날짜 정보 수정할 때 setDate()
+- Math객체
+1. 수학과 함수를 위한 속성(property)를 제공하는 내장객체
+2. console.log(Math.random()); 0~1 사이의 랜덤의 실수(난수)를 반환. 0은 포함되나 1은 포함되지 않음
+3. console.log(Math.floor()); 소수점 이하 내림하여 정수로 반환
+
 # 240424 #
 **JAVA Script** : 
 - ifEx6.html - if문==삼항연사자==단락구문평가로 작성하는 방법
