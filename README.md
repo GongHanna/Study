@@ -1,3 +1,22 @@
+# 240429 #
+**JAVA Script** : 
+- 화살표 함수
+1. ES6+ 사용
+2. 함수 표현식(익명 함수)에서만 사용 가능
+3. this, arguments, new 키워드 사용 어려움
+4. 본문이 여러 줄인 경우 {} 사용 권장
+5. {} 사용시 반드시 return 키워드를 통해 반환
+- this 키워드
+1. 일반 함수에서의 this는 객체 자신(noName)을 가리키는 키워드
+2. 화살표 함수에서의 this는 참조하는 대상이 window, 혹은 상황에 따라 다른 객체를 참조하기도 함
+- 함수 스코프
+- Synchronous 동기식 통신 vs Asynchronous 비동기식 통신 (https://cafe.naver.com/ezdgt)
+1. Synchronous 동기식 통신 : 응답하기 전까지는 다른 요청을 할 수 없음
+2. Asynchronous 비동기식 통신 : 요청1에 대한 응답1을 기다리지 않고 계속 요청 가능, 응답 순서는 요청 순서와 다를 수 있으며 동기식보다 빠름
+- setTimeout(콜백함수, 시간) : 비동기 함수, 정해진 시간 뒤 한 번만 실행/ clearTimeout(); setTimeout() 중단
+- setInterval(콜백함수, 시간); 지정된 시간마다 반복 실행. 비동기 함수
+- 콜백함수(callback function) : 함수의 매개변수parameter로 함수를 넘기는 것
+
 # 240426 #
 **JAVA Script** : 
 - 자바스크립트 예제문 풀이
