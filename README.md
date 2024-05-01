@@ -1,3 +1,30 @@
+# 240501 #
+**JAVA Script** : 
+- 배열Ex6.html / 현재 날짜와 시간 출력.
+- 재귀 함수 : 함수 내부에서 자기 자신을 호출하는 함수
+- .padStart(문자열 길이, '채워넣을문자');
+- DOM 객체-탐색
+1. id 속성 노드 탐색 document.getElementById('id')
+2. class 속성 노드 .getElementsByClassName('class');
+3. tag 노드 탐색 getElementsByTagName('tag');
+4. 표준 탐색 메서드 document.querySelector('id#, class. , tag'); 제일 처음 탐색한 노드 반환
+- NodeList로 반환
+- data-사용자정의이름="" (data-color="", data-name="", data-size="")
+- class 제어
+1. .classList.add(); 클래스 속성 추가
+2. .classList.remove(); 클래스 속성 제거
+3. .classList.toggle(); .add(), .remove()의 반복
+4. .className 속성. 클래스 값을 가져오거나 변경
+5. .classList.replace('현재클래스', '변경클래스');
+- 이벤트 버블링 bubbling : 자식 -> 부모 순으로 이벤트 전달. 주로 지원
+- 이벤트 캡쳐링 capturing : 부모 -> 자식 순으로 이벤트 전달
+- 이벤트 제어
+1. .stopPropagation(); // 현재 이벤트가 상위 노드까지 전달되는 것을 방지(이벤트 버블링 방지)
+2. .preventDefault(); // 요소의 기본 성격 제거
+3. event.target // 실제 이벤트가 발생하는 요소를 반환. 이벤트 리스너가 등록되어 있는 자식 요소 반환
+4. evert.currentTarget // 이벤트 리스너가 있는 요소를 반환. 이벤트를 등록해 놓은 요소 반환(일반적으로는 버튼)
+- 자바스크립트 코딩 문제 제작
+
 # 240430 #
 **JAVA Script** : 
 - prototype 객체
