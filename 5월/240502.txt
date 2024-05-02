@@ -1,0 +1,42 @@
+오전 : jQuery
+        - jQuery 선택자 탐색
+        - jQuery 기본 구조 -> $('대상').method();
+	1. jQuery('*'); 제이쿼리 방식으로 전체 선택자를 탐색
+	2. $('#id'); 아이디 선택자 탐색
+	3. $('.class'); 클래스 선택자 탐색
+	4. $('#id > .class, type type'); 다중 선택자 탐색
+	5. $('type:nth:child()');
+	6. $('type[attribute=value]');
+	7. $(':hover');
+
+        - .method();
+	1. $().parent(); 직계 부모 노드 탐색
+	2. $().parents(); 모든 부모 노드 탐색
+	3. $().children(); 모든 직계 자식 노드 탐색
+	4. $().sibling(); 형제 노드 탐색
+	5. $().prev(); 바로 이전 형제 노드 탐색
+	6. $().next(); 바로 다음 형제 노드 탐색
+	7. $().prevAll(); 이전 형제 노드 '모두' 탐색
+	8. $().nextAll(); 다음 형제 노드 '모두' 탐색
+	9. $().first(); 일치하는 요소에서 첫번째 노드 탐색
+	10. $().last(); 일치하는 요소에서 마지막 노트 탐색
+	11. $().find(); 일치하는 하위 노드 탐색. 반드시 매개변수 작성해야 함
+	12. $().filter(); 일치하는 노드 탐색(주로 걸러냄)
+
+오후 : jQuery
+        - Event Method
+	1. show() 보임
+	2. hide() 숨김
+	3. toggle() show, hide 반복
+	4. .slideUp();서서히 올라감
+	5. .slideDown();서서히 내려감
+	6. .slideToggle(); Up, Down
+	7. .fadeIn(서서히 사라짐) .fadeOut(서서히 나타남) .fadeToggle(반복)
+	8. fadeTo(500, 0); // (속도, 불투명도 0~1)
+
+        - $().on('이벤트명', function() {}); / 하나의 이벤트 적용
+        - $().on({
+        	'mouseenter': function() {},
+        	'mouseleave': function() {},
+        	'이벤트명': function() {}
+           }); / 여러 이벤트 적용
