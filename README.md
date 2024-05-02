@@ -1,3 +1,15 @@
+# 240502 #
+**jQuery** : 
+-  jQuery 선택자 탐색
+-  jQuery 기본 구조 -> $('대상').method();
+-  Event Method
+-  $().on('이벤트명', function() {}); / 하나의 이벤트 적용
+-  $().on({
+  'mouseenter': function() {},
+  'mouseleave': function() {},
+  '이벤트명': function() {}
+  }); / 여러 이벤트 적용
+
 # 240501 #
 **JAVA Script** : 
 - 배열Ex6.html / 현재 날짜와 시간 출력.
