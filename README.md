@@ -1,3 +1,14 @@
+# 240503 #
+**jQuery** : 
+-  .width() .height()
+-  form의 값은 JS .value, jQuery에서는 .val();
+-  .text() : 기준 요소의 문자를 가져오거나 반환
+-  .html() : html 구조를 가져오거나 반환
+-  slideUpDown 예제 풀이
+-  .attr() : html 태그 속성(attribute)의 값을 가져오거나 반환
+-  attr 예제 풀이
+-  자바스크립트 문제 풀이
+
 # 240502 #
 **jQuery** : 
 -  jQuery 선택자 탐색
