@@ -25,14 +25,14 @@
 
 오후 : jQuery
         - Event Method
-	1. show() 보임
-	2. hide() 숨김
-	3. toggle() show, hide 반복
+	1. .show() 보임
+	2. .hide() 숨김
+	3. .toggle() show, hide 반복
 	4. .slideUp();서서히 올라감
 	5. .slideDown();서서히 내려감
 	6. .slideToggle(); Up, Down
 	7. .fadeIn(서서히 사라짐) .fadeOut(서서히 나타남) .fadeToggle(반복)
-	8. fadeTo(500, 0); // (속도, 불투명도 0~1)
+	8. .fadeTo(500, 0); // (속도, 불투명도 0~1)
 
         - $().on('이벤트명', function() {}); / 하나의 이벤트 적용
         - $().on({
