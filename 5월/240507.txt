@@ -1,0 +1,41 @@
+오전 : jQuery
+        - 자바스크립트 문제 풀이
+        - class 예제
+
+오후 : jQuery
+        - class 예제
+        - transition: 1s 0.8s; /* 진행시간, 대기시간 */
+        - hasClass(); 기준 요소에 해당 클래스가 있으면 true, 없으면 false 반환
+        - remove(); 기준 요소부터 하위 노드 전부 제거. 기준 요소도 제거
+        - empty(); 기준 요소의 하위 노드만 제거. 기준 요소는 남음
+        - $('B').prependTo('A'); 부모인 A의 자식들 중 요소 B를 자식들 중 제일 처음으로 *이동*
+        - $('B').appendTo('A'); 부모인 A의 자식들 중 요소 B를 자식들 중 제일 마지막으로 *이동*
+        - pretendTo+appendToEx2 예제
+
+============================================================================
+
+* 자바스크립트 팀 프로젝트 *
+
+프로젝트명 : 아이삼
+
+팀 리더 : 안서희 
+
+팀원 : 공한나, 김나은, 안서희 (총 4페이지)
+
+페이지
+1. shop(물건들)
+2. brand(소개글, 지점 안내)
+3. event(진행중, 종료된)
+4. Notice(Q&A-고객질문, 리뷰, 자주물어보는 질문)
+
+역할 : 디자인 위주 - 안서희, 디자인+코딩 - 공한나, 김나은
+
+Github Organization : url 공한나(관리)
+
+벤치마킹 사이트 
+1. https://rogerjunior.com/
+2. https://www.thehappyfew.agency/ (참고)
+
+주제
+릴리바이레드 (https://lilybyred.co.kr/)
+참고 : 베네피트 (https://www.benefitcosmetics.com/ko-kr)
