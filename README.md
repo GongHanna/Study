@@ -1,3 +1,12 @@
+# 240510 #
+**jQuery** : 
+- .scrollTop(), .scrollLeft() : 가로, 세로 스크롤 되는 크기를 불러오거나 반환. 스크롤 값. 숫자로 반환
+- window 객체 사이즈
+- scrollTo+scrollBy+scrollIntoView
+
+**자바스크립트 팀 프로젝트** :
+- figma로 와이어프레임 제작, 피시 버전
+
 # 240509 #
 **jQuery** : 
 - slide 예제, animate 예제
