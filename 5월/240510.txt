@@ -1,0 +1,73 @@
+오전 : jQuery
+        - .scrollTop(), .scrollLeft() : 가로, 세로 스크롤 되는 크기를 불러오거나 반환. 스크롤 값. 숫자로 반환
+
+        - window 객체가 아닌 document.documentElement를 쓰는 이유 :
+	스크롤바가 있는 경우 스크롤 바 역시 공간을 차지하는데, 
+	이럴 때 window객체와 document.documentElement의 해당 프로퍼티들은 다른 값을 반환
+
+        - e.preventDefault(); // 요소의 기본 성격 제거
+
+        - window 객체 사이즈
+	1. ('모니터 해상도 너비: ' + window.screen.width);
+	2.('모니터 해상도 높이: ' + screen.height);
+	3. ('모니터 해상도 작업표시줄 제외 너비: ' + screen.availWidth);
+	4. ('모니터 해상도 작업표시줄 제외 높이: ' + screen.availHeight);
+	5. ('브라우저 전체 너비: ' + outerWidth);
+	6. ('브라우저 전체 높이: ' + outerHeight);
+	7. ('스크롤바 포함 브라우저 내부 너비(순수화면 사이즈): ' + innerWidth);
+	8. ('스크롤바 포함 브라우저 내부 높이: ' + innerHeight);
+	9. ('스크롤바 미포함 브라우저 내부 너비: ' + document.documentElement.clientWidth);
+	10. ('스크롤바 미포함 브라우저 내부 높이: ' + document.documentElement.clientHeight);
+	11. ('구 스크롤바 영역 미포함 브라우저 내부 너비: ' + document.body.clientWidth); / 구버전 IE
+	12. ('스크롤바의 숨겨진 영역까지 포함한 콘텐츠 너비: ' + document.documentElement.scrollWidth);
+	13. ('스크롤바의 숨겨진 영역까지 포함한 콘텐츠 높이: ' + document.documentElement.scrollHeight);
+
+오후 : jQuery
+        - 요소 element의 거리 - 상대 위치로 계산하고자 할 때(JavaScript) / .offset().top, .offset().left
+	1. offsetParent: position이 설정되어 있는 조상 요소 기준. 없으면 body 기준 
+	2. offsetTop: offsetParent 기준 위에서부터 떨어져 있는 거리
+	3. offsetLeft: offsetParent 기준 왼쪽으로부터 떨어져 있는 거리
+        - 요소 element의 크기
+	1. offsetWidth: width + padding + border + scrollbar
+	2. offsetHeight: height + padding + border + scrollbar
+	3. clientWidth: width + padding
+	4. clientHeight: height + padding
+        - jQuery - 절대 위치로 게산하고자 할 때
+	1. .offsetParent();
+	2. .offset().top, .offset().left
+
+        - scrollTo+scrollBy+scrollIntoView
+	- pageX; 페이지 기준
+	1. window.scrollTo(pageX, pageY); 절대 좌표 '스크롤' 값
+	2. window.scrollBy(x, y); 현재 스크롤 상태를 기준으로 상대적 '스크롤' 정보 변경
+	3. window.scrollIntoView(); 화면 처음으로 해당 요소가 '스크롤'로 이동.
+	   false값인 경우 화면의 제일 아래로 이동  
+        - 자바스크립트 팀 과제
+
+============================================================================
+
+* 자바스크립트 팀 프로젝트 *
+
+프로젝트명 : 아이삼
+
+팀 리더 : 안서희 
+
+팀원 : 공한나, 김나은, 안서희 (총 4페이지)
+
+페이지
+1. shop(물건들)
+2. brand(소개글, 지점 안내)
+3. event(진행중, 종료된)
+4. Notice(Q&A-고객질문, 리뷰, 자주물어보는 질문)
+
+역할 : 디자인 위주 - 안서희, 디자인+코딩 - 공한나, 김나은
+
+Github Organization : url 공한나(관리)
+
+벤치마킹 사이트 
+1. https://rogerjunior.com/
+2. https://www.thehappyfew.agency/ (참고)
+
+주제
+릴리바이레드 (https://lilybyred.co.kr/)
+참고 : 베네피트 (https://www.benefitcosmetics.com/ko-kr)
