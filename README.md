@@ -1,3 +1,15 @@
+# 240513 #
+**jQuery** : 
+- scrollY
+1. window.pageYOffset: y축 방향으로 스크롤한 거리. 오래된 버전과 호환
+2. window.scrollY: y축 방향으로 스크롤한 거리
+3. pageXOffset: x축 방향으로 스크롤한 거리
+4. scrollX: x축 방향으로 스크롤한 거리
+- pointer-events: none; /* 마우스 성격 제어 */
+
+**자바스크립트 팀 프로젝트** :
+- 피그마 디자인 작업
+
 # 240510 #
 **jQuery** : 
 - .scrollTop(), .scrollLeft() : 가로, 세로 스크롤 되는 크기를 불러오거나 반환. 스크롤 값. 숫자로 반환
