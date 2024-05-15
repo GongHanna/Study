@@ -1,0 +1,49 @@
+오전 : jQuery
+        - JS : 여러 요소를 순차적으로 순회
+	array.forEach(elem => {});
+	[a[0],a[1],a[2],a[3]].forEach(a => {});
+        - jQuery : 여러 요소를 순차적으로 순회
+	$.each(배열 혹은 객체, 콜백함수);
+	배열인 경우 인덱스, 값 순서로 인자를 받음
+	$.each(((index, value) => {}));
+        - requestAnimationFrame();
+        - 
+        - 
+        - 
+
+오후 : 자바스크립트 팀 프로젝트
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+
+============================================================================
+
+* 자바스크립트 팀 프로젝트 *
+
+프로젝트명 : 아이삼
+
+팀 리더 : 안서희 
+
+팀원 : 공한나, 김나은, 안서희 (총 4페이지)
+
+페이지
+1. shop(물건들)
+2. brand(소개글, 지점 안내)
+3. event(진행중, 종료된)
+4. Notice(Q&A-고객질문, 리뷰, 자주물어보는 질문)
+
+역할 : 디자인 위주 - 안서희, 디자인+코딩 - 김나은, 코딩 - 공한나
+
+Github Organization : url 김나은(관리)
+기술 리더 : 공한나
+
+벤치마킹 사이트 
+1. https://rogerjunior.com/
+2. https://www.thehappyfew.agency/ (참고)
+
+주제
+릴리바이레드 (https://lilybyred.co.kr/)
+참고 : 베네피트 (https://www.benefitcosmetics.com/ko-kr)
