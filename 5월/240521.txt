@@ -1,0 +1,37 @@
+오전 : jQuery
+        - gsap을 사용하여 https://qude.audio/ 사이트 따라하기
+        -  로딩 페이지 css 작업 및 js 이벤트 
+        - window.addEventListener('load', 함수이름); -> 문서를 다 불러오면 로딩이 끝나게 이벤트 설정
+
+오후 : 자바스크립트 팀 프로젝트
+        - 메인 페이지 오브젝트 추가
+        - 로딩 페이지 디자인 작업
+
+============================================================================
+
+* 자바스크립트 팀 프로젝트 *
+
+프로젝트명 : 아이삼
+
+팀 리더 : 안서희 
+
+팀원 : 공한나, 김나은, 안서희 (총 4페이지)
+
+페이지
+1. shop(물건들)
+2. brand(소개글, 지점 안내)
+3. event(진행중, 종료된)
+4. Notice(Q&A-고객질문, 리뷰, 자주물어보는 질문)
+
+역할 : 디자인 위주 - 안서희, 디자인+코딩 - 김나은, 코딩 - 공한나
+
+Github Organization : url 김나은(관리)
+기술 리더 : 공한나
+
+벤치마킹 사이트 
+1. https://rogerjunior.com/
+2. https://www.thehappyfew.agency/ (참고)
+
+주제
+릴리바이레드 (https://lilybyred.co.kr/)
+참고 : 베네피트 (https://www.benefitcosmetics.com/ko-kr)
