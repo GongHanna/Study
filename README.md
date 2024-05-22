@@ -1,3 +1,18 @@
+# 240522 #
+**jQuery** : 
+- gsap을 사용하여 https://qude.audio/ 사이트 따라하기
+- gsap을 이용한 js 이벤트 작업
+1. scrollTrigger
+2. GSAP Timeline
+3. gsap.utils.toArray()
+4. ScrollTrigger.batch(); 여러 객체에 동일한 스크롤 트리거 적용
+
+**자바스크립트 팀 프로젝트** :
+- 로딩 페이지 작업
+- 필요 없는 부분 삭제 및 파일 정리
+- 발표 자료 정리
+- 피그마 정리
+
 # 240521 #
 **jQuery** : 
 - 로딩 페이지 css 작업 및 js 이벤트 
