@@ -1,3 +1,16 @@
+# 240523 #
+**jQuery** : 
+- JS 자료를 JSON 문자열 반환 -> JSON.stringify();
+- JSON 문자열 JS 배열 반환 -> JSON.parse();
+- 내부 / 외부에서 데이터 불러오는 방법
+- asyns함수 await키워드
+
+**자바스크립트 팀 프로젝트** :
+- 깃허브 페이지 생성
+- 메타 태그 og:url, og:image 경로 수정
+- 상품 리스트 페이지를 ajax 파일로 변경 후 적용
+- ppt 제작 및 문서 작성
+
 # 240522 #
 **jQuery** : 
 - gsap을 사용하여 https://qude.audio/ 사이트 따라하기
