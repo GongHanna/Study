@@ -1,3 +1,13 @@
+# 240528 #
+**react** : 
+- SPA, MPA 개념 이해
+- 프로젝트 생성 : ﻿CRA(Create-React-App) / npm init react-app 프로젝트명
+- 폴더명으로 이동한 뒤(cd 프로젝트 명), npm start -> react 가상 서버 구동
+- 대문자로 시작하는 js 문서는 컴퍼넌트
+
+**포트폴리오** : 
+- 포트폴리오 메인 페이지 디자인 작업
+
 # 240527 #
 **react** : 
 - react 사용을 위한 사전 설정
