@@ -1,3 +1,17 @@
+# 240530 #
+**react** : 
+- npm 사이트에서 reset 연결
+- props : 부모 컴포넌트에서 자식 컴포넌트로 전달되는 데이터
+- event : 'on-'접두어 + 첫글자 대문자로 이벤트명 작성(onClick, onSubmit...)
+- state : 상태. 상태 변화를 위해 사용하는 hook , 상태 값이 변경되는 경우 useState()
+
+**포트폴리오** : 
+- index.html 코딩 완료
+- css 변수 설정
+- global.css 작업
+- index.css 작업
+- header, footer 마우스 이벤트 적용
+
 # 240529 #
 **react** : 
 - scss 표기 방법 및 스타일 작업 (npm i sass)
