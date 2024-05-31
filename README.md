@@ -1,3 +1,11 @@
+# 240531 #
+**react** : 
+- ESLint , Prettier 설치 및 세팅
+- react로 onClick 이벤트, 삼항연산자, 데이터 추가, props 등등
+- 간단한 todo list
+- onChange={} => input이 변화할 때마다 감지
+- useRef() : DOM에 직접 접근할 때 사용
+
 # 240530 #
 **react** : 
 - npm 사이트에서 reset 연결
