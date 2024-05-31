@@ -1,0 +1,19 @@
+오전 : react
+        - ESLint , Prettier 설치 및 세팅
+        - react로 onClick 이벤트, 삼항연산자, 데이터 추가, props 등등
+        - 간단한 todo list
+        - onChange={} => input이 변화할 때마다 감지
+        - useRef()
+	1. DOM에 직접 접근할 때 사용(focus, scroll, querySeletor...)
+	2. 새로 고침시 초기화 되지 않기 때문에 컴포넌트의 상태와 다른 상태를 가질 수 있음
+
+============================================================================
+
+* 포트폴리오 사이트 *
+https://aawkw-ardaardvark.webflow.io/
+
+* 깃허브 포트폴리오 주소 *
+https://github.com/GongHanna/Portfolio
+
+* 깃허브 pages 주소 *
+https://gonghanna.github.io/Portfolio/
