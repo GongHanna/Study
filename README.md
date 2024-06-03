@@ -1,3 +1,18 @@
+# 240603 #
+**react** : 
+- 이미지 경로 설정
+- react와 json을 사용하여 Business 컴포넌트 제작
+- useEffect(() => {}); 외부 API를 통해 데이터를 불러올 때
+- data={} 자식 컴포넌트에 전달
+- npm run build / gitHub에 올리는 방법
+- vite 환경 만들기
+- react-router-dom
+
+**포트폴리오** : 
+- index.css 수정
+- css animation 추가
+- index.js 이벤트 추가
+
 # 240531 #
 **react** : 
 - ESLint , Prettier 설치 및 세팅
