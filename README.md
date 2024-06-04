@@ -1,3 +1,19 @@
+# 240604 #
+**react** : 
+- 주차장 예약 시스템
+- useNavigate
+- ContextAPI : 컴포넌트 트리 전체에 데이터를 제공
+- .toLocaleString(); 사용자에게 단순히 보여주기만 할 대 유용
+- .toISOString(); 데이터 처리나 백엔드와의 통신에서 유용. 일관된 형식을 가짐
+
+**포트폴리오** : 
+- favicon 수정
+- main-title :text-animation 수정
+- index.html 구조 수정
+- 가로 스크롤 contents 부분 css 수정
+- 반응형 태블릿/ 모바일 버전 css 작업
+- 가로스크롤 js 수정
+
 # 240603 #
 **react** : 
 - 이미지 경로 설정
