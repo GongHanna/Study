@@ -1,0 +1,28 @@
+오전 : react
+        - 주차장 예약 시스템
+        - <Route path="/내가 정한 주소창의경로" element={<이동할 컴포넌트 명 />} />
+        - useNavigate
+        - ContextAPI : 컴포넌트 트리 전체에 데이터를 제공
+        - Date 객체의 toISOString() 메서드는 날짜와 시간을 ISO 표준 문자열로 변환.
+        - .split("T")[0] T를 기준으로 분리하기 위해
+        - .toLocaleString(); 사용자에게 단순히 보여주기만 할 대 유용
+        - .toISOString(); 데이터 처리나 백엔드와의 통신에서 유용. 일관된 형식을 가짐
+
+오후 : 포트폴리오 구성
+        - favicon 수정
+        - main-title :text-animation 수정
+        - index.html 구조 수정
+        - 가로 스크롤 contents 부분 css 수정
+        - 반응형 태블릿/ 모바일 버전 css 작업
+        - 가로스크롤 js 수정
+
+============================================================================
+
+* 포트폴리오 사이트 *
+https://aawkw-ardaardvark.webflow.io/
+
+* 깃허브 포트폴리오 주소 *
+https://github.com/GongHanna/Portfolio
+
+* 깃허브 pages 주소 *
+https://gonghanna.github.io/Portfolio/
