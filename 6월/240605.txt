@@ -1,0 +1,26 @@
+오전 : react
+        - 주차장 예약 시스템
+        - form 제어
+        - encodeURIComponent(); URI의 일부로 사용될 특수문자 포함된 데이터의 문자열을 인코딩하여 전달
+        - URI: 인터넷상의 모든 자원 혹은 데이터 / 통합자원식별자
+        - useLocation();
+        - useEffect : 컴포넌트 생명주기마다 특정 기능을 실행 할 수 있게 해주는 hook
+
+오후 : 포트폴리오
+        - 반응형 모바일 버전 css 수정
+        - 가로 스크롤 이벤트 수정
+        - 개인 프로젝트 시작
+
+============================================================================
+
+* 포트폴리오 사이트 *
+https://aawkw-ardaardvark.webflow.io/
+
+* 깃허브 포트폴리오 주소 *
+https://github.com/GongHanna/Portfolio
+
+* 깃허브 pages 주소 *
+https://gonghanna.github.io/Portfolio/
+
+* 개인프로젝트 사이트 *
+https://purunet.kumsung.co.kr/
