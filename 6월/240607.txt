@@ -1,0 +1,18 @@
+오전 / 오후 : 개인 프로젝트
+        - index.css 작업
+        - index.html 구조 수정
+        - svg 추가
+
+============================================================================
+
+* 포트폴리오 사이트 *
+https://aawkw-ardaardvark.webflow.io/
+
+* 깃허브 포트폴리오 주소 *
+https://github.com/GongHanna/Portfolio
+
+* 깃허브 pages 주소 *
+https://gonghanna.github.io/Portfolio/
+
+* 개인프로젝트 사이트 *
+https://purunet.kumsung.co.kr/
