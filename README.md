@@ -1,8 +1,10 @@
-# 240607 #
+# 240610 #
 **개인프로젝트** : 
-- index.css 작업
-- index.html 구조 수정
-- svg 추가
+-  js 이벤트 수정 및 추가
+1. company : 현재 활성화된 슬라이드에만 이벤트 추가
+2. auto-slide : pagination 추가 및 html 구조 수정, 자동 슬라이드 이벤트 추가, svg 애니메이션 추가
+3. img-slide : html 구조 수정, swiper 수정, 배경색 변경 이벤트 추가, 버튼 변경, svg 애니메이션 추가
+4. video-slide : slide 이벤트 추가, svg 애니메이션 추가, 버튼 이벤트 추가
 
 # 240605 #
 **react** : 
