@@ -1,3 +1,9 @@
+# 240611 #
+**개인프로젝트** : 
+-  js 이벤트 수정 및 추가
+1. review 스크롤 이벤트 추가 : 스크롤 시 순차적으로 card-list에 addClass 및 removeClass, 스크롤 시 특정 조건을 만나면 svg 색상 변화
+2. main-page 이벤트 : html 구조 수정 및 css로 배치, css animation 추가 및 적용
+
 # 240610 #
 **개인프로젝트** : 
 -  js 이벤트 수정 및 추가
