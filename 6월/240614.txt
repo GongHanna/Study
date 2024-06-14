@@ -1,0 +1,19 @@
+오전  : 포트폴리오
+        - 서브 페이지 팀 프로젝트 디자인 및 내용 구성
+
+오후  : 포트폴리오
+        - 서브 페이지 html 구조 작성 및 css 작업
+
+============================================================================
+
+* 포트폴리오 사이트 *
+https://aawkw-ardaardvark.webflow.io/
+
+* 깃허브 포트폴리오 주소 *
+https://github.com/GongHanna/Portfolio
+
+* 포트폴리오 pages 주소 *
+https://gonghanna.github.io/Portfolio/
+
+* 개인프로젝트 사이트 *
+https://purunet.kumsung.co.kr/
