@@ -1,0 +1,23 @@
+오전  : 리액트 개인 프로젝트
+        - gh-pages에 대한 공부 및 방법 숙지
+        - 코드 수정 : BrowserRouter에서 HashRouter로 수정, index.html의 head에 "base href" 추가
+        - 빈화면 오류가 발생하지 않으면 차례대로 컴포넌트 연결 후 확인해보기
+        - 모두 확인 시 빈화면 오류 없이 빌드 완료
+
+오후  : 반응형 개인 프로젝트
+        - 개인 프로젝트 사이트 선정
+
+============================================================================
+
+* 깃허브 포트폴리오 주소 *
+https://github.com/GongHanna/Portfolio
+
+* 포트폴리오 pages 주소 *
+https://gonghanna.github.io/Portfolio/
+
+https://www.aquerone.com/
+https://koraliving.com/
+https://www.digitalworks.co.kr/dgMain.do
+https://sealystore.co.kr/
+
+https://hypnoskorea.co.kr/index.html
