@@ -1,0 +1,26 @@
+오전  : 반응형 개인 프로젝트
+        - 개인 프로젝트 사이트 디자인
+
+해야할 일 
+1. 페이지 및 아이템 정렬 (한 눈에 들어오게)
+2. 아이콘 변경 (좀 더 눈에 띄는 걸로)
+3. 사진에 주는 포인트 변경(포인트가 눈에 잘 안들어옴)
+
+============================================================================
+
+* 깃허브 포트폴리오 주소 *
+https://github.com/GongHanna/Portfolio
+
+* 포트폴리오 pages 주소 *
+https://gonghanna.github.io/Portfolio/
+
+https://www.aquerone.com/
+https://koraliving.com/
+https://www.digitalworks.co.kr/dgMain.do
+https://sealystore.co.kr/
+
+https://hypnoskorea.co.kr/index.html
+
+fonts : https://fonts.google.com/selection?stroke=Sans+Serif
+
+svg icons : https://www.svgrepo.com/
