@@ -1,0 +1,18 @@
+오전  : 반응형 개인 프로젝트
+        - 사이트 웹 버전 디자인
+        - 프레임 변경, 아이템 정렬, 폰트 크기 변경 등 ...
+        - 사이트 모바일 버전 디자인
+
+오후  : 반응형 개인 프로젝트
+        - 코드 분석
+        - 파일 정리 및 생성
+        - index.html 코딩 작업 시작
+        - json 파일 생성
+
+============================================================================
+
+https://hypnoskorea.co.kr/index.html
+
+fonts : https://fonts.google.com/selection?stroke=Sans+Serif
+
+svg icons : https://www.svgrepo.com/
