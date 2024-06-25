@@ -1,0 +1,19 @@
+오전  : 반응형 개인 프로젝트
+        - index.html video 및 footer 작업
+        - json 파일 연결
+        - 이미지 파일 경로 수정
+        - header 및 footer css 작업
+
+오후  : 반응형 개인 프로젝트
+        - pc 버전 css 작업
+        - swiper 작업
+        - js 이벤트 작업
+        - 내일 해야할 일 : 태블릿 및 모바일 버전 css 작업, js 이벤트 추가 
+
+============================================================================
+
+https://hypnoskorea.co.kr/index.html
+
+fonts : https://fonts.google.com/selection?stroke=Sans+Serif
+
+svg icons : https://www.svgrepo.com/
