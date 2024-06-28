@@ -1,3 +1,14 @@
+# 📚스터디 일지📚 #
+
+👇🏻보러가기👇🏻
+- [나의 프로필](https://github.com/GongHanna)
+- [우당탕 자바스크립트 문제풀이](https://github.com/GongHanna/JS-Question-book?tab=readme-ov-file#%EC%9A%B0%EB%8B%B9%ED%83%95-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
+
+# 240628 #
+**깃허브** : 
+- 폴더 정리 및 js 문제풀이 폴더 생성 및 정리
+- 프로필 꾸미기
+
 # 240627 #
 **반응형 개인 프로젝트** : 
 - 태블릿/ 모바일 버전 메뉴 버튼 이벤트 추가
