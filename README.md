@@ -396,9 +396,6 @@
   - Notice(Q&A-고객질문, 리뷰, 자주물어보는 질문)
 - 역할 : 디자인 위주 - 안서희, 디자인+코딩 - 공한나, 김나은
 - Github Organization : url 공한나(관리)
-- 벤치마킹 사이트
-   - https://rogerjunior.com/
-   - https://www.thehappyfew.agency/ (참고)
 - 주제
    - 릴리바이레드 (https://lilybyred.co.kr/)
    - 참고 : 베네피트 (https://www.benefitcosmetics.com/ko-kr)
