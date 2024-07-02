@@ -4,6 +4,11 @@
 - [나의 프로필](https://github.com/GongHanna)
 - [우당탕 자바스크립트 문제풀이](https://github.com/GongHanna/JS-Question-book?tab=readme-ov-file#%EC%9A%B0%EB%8B%B9%ED%83%95-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
 
+# 240702 #
+**수료식** : 
+- 포트폴리오 제작과정 발표 준비 및 발표
+- 수료
+
 # 240701 #
 **리액트개인프로젝트** : 
 - 관련 컴포넌트 추가
